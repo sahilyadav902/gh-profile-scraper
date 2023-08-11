@@ -1,5 +1,6 @@
 # How to use?
 - Create and activate your virtual environment.
+- Add `GITHUB_ACCESS_TOKEN` in .env or replit secrets.
 - Run the following command for installing packages:
 ```bash
 pip install -r requirements.txt
